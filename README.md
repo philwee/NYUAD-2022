@@ -17,16 +17,16 @@ March 30 - April 1, 2022
 Quantum:
 
 ## Our Team:
-**Amir Ebrahimi (Mentor)** - Principal Software Engineer, Austin/Unity Technologies, USA
-**Shaun Radgowski (Mentor)** - Financial Analyst, Morgan Stanley, USA
-**Saeed Motamed (Mentor)** - Cloud Solution Architect, Microsoft, UAE
-**Hadeel Ehmouda (Student)** - Master's Student, Birzeit University, Jordan & Palestine
-**Phil Wee (Student)** - Undergraduate, NYUAD, Philippines & UAE
-**Soyuj Jung Basnet (Student)** - Undergraduate, NYUAD, Nepal & United Arab Emirates
-**Nouran Sheta (Student)** - Undergraduate, AUS, Egypt & UAE
-**Belal Malabeh (Student)** - Undergraduate, Applied Science University, Jordan
-**Majd Maree (Student)** - Undergraduate, Birzeit University, Palestine
-**Nouf Alababsi (Student)** - Undergraduate, NYUAD, Junior, UAE
-**Nghia Nim (Student)** - Undergraduate, NYUAD, Vietnam & UAE
+**Amir Ebrahimi (Mentor)** - Principal Software Engineer, Austin/Unity Technologies, USA <br>
+**Shaun Radgowski (Mentor)** - Financial Analyst, Morgan Stanley, USA <br>
+**Saeed Motamed (Mentor)** - Cloud Solution Architect, Microsoft, UAE <br>
+**Hadeel Ehmouda (Student)** - Master's Student, Birzeit University, Jordan & Palestine <br>
+**Phil Wee (Student)** - Undergraduate, NYUAD, Philippines & UAE <br>
+**Soyuj Jung Basnet (Student)** - Undergraduate, NYUAD, Nepal & United Arab Emirates <br>
+**Nouran Sheta (Student)** - Undergraduate, AUS, Egypt & UAE <br>
+**Belal Malabeh (Student)** - Undergraduate, Applied Science University, Jordan <br>
+**Majd Maree (Student)** - Undergraduate, Birzeit University, Palestine <br>
+**Nouf Alababsi (Student)** - Undergraduate, NYUAD, Junior, UAE <br>
+**Nghia Nim (Student)** - Undergraduate, NYUAD, Vietnam & UAE <br>
 
 
